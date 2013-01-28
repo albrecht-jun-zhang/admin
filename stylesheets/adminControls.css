@@ -1,0 +1,26 @@
+<!-- Controls style author Jun Zhang-->
+
+
+.slotNumber {
+    width:5px;
+}
+
+.userName {
+    width:10%;    
+}
+
+.isActive {
+    width:10%;
+}
+
+.password {
+    width:10%;
+}
+
+.action {
+    width:10%;
+}
+
+.empty {
+    width:35%;
+}
