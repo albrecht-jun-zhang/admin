@@ -54,7 +54,7 @@ class AdminModel {
      * @param string $tableName: name of the table
      */
     public function getAllData($tableName) {
-        $sql = "SELECT * FROM $tableName ORDER BY slotNumber";
+        $sql = "SELECT * FROM $tableName ORDER BY slotNumber, userName";
         try{
             $sth = $this->mDBH->prepare($sql);
             $sth->execute();
