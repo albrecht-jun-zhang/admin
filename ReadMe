@@ -1,7 +1,3 @@
-How to run the project.
+Finished version.
 
-1. Import localhost.sql into your database.
-2. In admin/includes/config.php: update the db info with your own info.
-
-Then you should be able to run the project, although you can use delete and add function now.
-I will continue the project when I get home.
+Please refer to Readme.docx
